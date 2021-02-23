@@ -14,4 +14,4 @@ Usando o conceito sobre CSS Flexbox e responsividade.
 - HTML5
 - CSS3
 
-Made with :computer: By JmJunior
+Made By JmJunior :computer:
