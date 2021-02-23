@@ -28,7 +28,7 @@ Usando o conceito sobre CSS Flexbox e responsividade.
  - Este projeto está sob a licença do MIT.
 
 
-### Ferramentas usadas: :memo:
+### Ferramentas usadas: :rocket:
 
 - HTML5
 - CSS3
