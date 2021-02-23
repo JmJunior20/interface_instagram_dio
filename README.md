@@ -4,8 +4,9 @@ Criando a página de login do Instagram durante o curso de HTML Web Developer da
 
 Usando o conceito sobre CSS Flexbox e responsividade.
 
-<img src="./_github/instagram_image.jpg">
+<img src="./_github/instagram_image.png">
 
+<img src="./_github/instagram_image_mobile.png">
 
 
 ### Ferramentas usadas: :computer:
@@ -13,3 +14,4 @@ Usando o conceito sobre CSS Flexbox e responsividade.
 - HTML5
 - CSS3
 
+Made with :computer: By JmJunior
