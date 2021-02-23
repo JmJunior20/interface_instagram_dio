@@ -6,7 +6,7 @@ Usando o conceito sobre CSS Flexbox e responsividade.
 
 <img src="./_github/instagram_image.png">
 
-<img src="./_github/instagram_image_mobile.png">
+<img src="./_github/instagram_image_mobile.png?raw=true">
 
 
 
